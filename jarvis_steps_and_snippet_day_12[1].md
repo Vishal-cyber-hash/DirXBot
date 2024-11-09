@@ -1,5 +1,5 @@
 
-# Jarvis Day 12 : WhatsApp Automation
+# Jarvis : WhatsApp Automation
 
 In this Video We will learn how to import google contacts in sql database and How to automate WhatsApp
 
