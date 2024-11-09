@@ -1,0 +1,5 @@
+eel
+pydub
+pyaudio
+pywhatkit
+pvporcupine
