@@ -92,7 +92,8 @@ Click the image above to view the presentation.
 
 [View the Presentation](https://docs.google.com/presentation/d/1Yr9gHBQWnkiPxccAvg3sJipEmjzHjSV1pRm9GPUVz5E/edit#slide=id.p1)
 # My Project Overview
-##logo
+
+## logo
 ![Screenshot 1](www/assets/images/pngegg.ico)
 
 ## Screenshot 1
