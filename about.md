@@ -47,3 +47,12 @@ This project is a voice-controlled assistant, which integrates multiple features
 ## Installation Requirements:
 To run this project, you need to install the following libraries:
 
+
+
+## Future Enhancements:
+- Integration with more AI services for better voice recognition.
+- Support for more system commands and interactions.
+- Cloud synchronization for contacts and commands.
+- Mobile app version of the assistant.
+
+
