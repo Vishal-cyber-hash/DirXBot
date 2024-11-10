@@ -85,7 +85,17 @@ Save the above content into a file called `README.md`.
 This `.md` file provides clear instructions on installing the dependencies and running the `run.py` program. Let me know if you need any further modifications!
 
 
-![Screenshot]((/www/assets/images/Screenshot%202024-11-10%20151947.png)
+# My Project Overview
+
+## Screenshot 1
+![Screenshot 1](images/screenshot1.png)
+
+## Screenshot 2
+![Screenshot 2](images/screenshot2.png)
+
+## Final Version
+![Final Version](www/assets/images/Screenshot%202024-11-10%20151947.png)
+
 
 
 
