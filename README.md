@@ -90,6 +90,8 @@ You can view or download the PowerPoint presentation below:
 
 [Download the PowerPoint Presentation](www/Hackthon%202024.pdf)
 
+[Open the PDF Documentation](www/Hackthon%202024.pdf)
+
 
 # My Project Overview
 ##logo
