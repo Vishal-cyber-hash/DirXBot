@@ -87,10 +87,7 @@ This project was developed by **Vishal Paswan**, **Jatin Megani**, and **Vivek**
 ## PowerPoint Presentation
 
 You can view or download the PowerPoint presentation below:
-
-[Download the PowerPoint Presentation](www/Hackthon%202024.pdf)
-
-[Open the PDF Documentation](www/Hackthon%202024.pdf)
+<iframe src="[https://www.example.com/file.pdf](https://docs.google.com/presentation/d/1Yr9gHBQWnkiPxccAvg3sJipEmjzHjSV1pRm9GPUVz5E/edit?usp=sharing)" width="600" height="400"></iframe>
 
 
 # My Project Overview
