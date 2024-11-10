@@ -55,4 +55,24 @@ To run this project, you need to install the following libraries:
 - Cloud synchronization for contacts and commands.
 - Mobile app version of the assistant.
 
+# Steps to Run the Program
+
+## Step 1: Install Libraries
+
+First, ensure that all necessary libraries are installed using the `requirements.txt` file. You can do this by running the following command in your terminal or command prompt:
+
+1. **Navigate to your project directory** (where `requirements.txt` is located).
+2. Run the following command:
+   ```bash
+   pip install -r requirements.txt
+
+   python run.py
+
+
+   
+Save the above content into a file called `README.md`.
+
+This `.md` file provides clear instructions on installing the dependencies and running the `run.py` program. Let me know if you need any further modifications!
+
+
 
