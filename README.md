@@ -80,9 +80,15 @@ First, ensure that all necessary libraries are installed using the `requirements
 
 
    
-Save the above content into a file called `README.md`.
+# Project Overview
 
-This `.md` file provides clear instructions on installing the dependencies and running the `run.py` program. Let me know if you need any further modifications!
+This project was developed by **Vishal Paswan**, **Jatin Megani**, and **Vivek**. The objective was to build a voice assistant with various features.
+
+## PowerPoint Presentation
+
+You can view or download the PowerPoint presentation below:
+
+[Download the PowerPoint Presentation](www/Hackthon%202024.pdf)
 
 
 # My Project Overview
