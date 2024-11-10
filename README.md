@@ -86,9 +86,11 @@ This project was developed by **Vishal Paswan**, **Jatin Megani**, and **Vivek**
 
 ## PowerPoint Presentation
 
-You can view or download the PowerPoint presentation below:
-<iframe src="https://docs.google.com/presentation/d/1Yr9gHBQWnkiPxccAvg3sJipEmjzHjSV1pRm9GPUVz5E/edit#slide=id.p1" width="600" height="400"></iframe>
+![Project Presentation](www/assets/images/Screenshot%202024-11-10%20153815.png)
 
+Click the image above to view the presentation.
+
+[View the Presentation](https://docs.google.com/presentation/d/1Yr9gHBQWnkiPxccAvg3sJipEmjzHjSV1pRm9GPUVz5E/edit#slide=id.p1)
 # My Project Overview
 ##logo
 ![Screenshot 1](www/assets/images/pngegg.ico)
