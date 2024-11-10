@@ -86,12 +86,14 @@ This `.md` file provides clear instructions on installing the dependencies and r
 
 
 # My Project Overview
+##logo
+![Screenshot 1](www/assets/images/pngegg.ico)
 
 ## Screenshot 1
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](www/assets/images/Screenshot%202024-11-10%20152235.png)
 
 ## Screenshot 2
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](www/assets/images/Screenshot%202024-11-10%20152015.png)
 
 ## Final Version
 ![Final Version](www/assets/images/Screenshot%202024-11-10%20151947.png)
