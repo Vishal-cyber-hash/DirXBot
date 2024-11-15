@@ -6,7 +6,7 @@ This project is a voice-controlled assistant, which integrates multiple features
 ## Team Members
 - **Vishal Paswan** - Team Leader
 - **Jatin Megani** - UI/UX Designer
-- **Vivek** - Software Developer
+- **Vivek Yadav** - Software Developer
 ## Features:
 - **Voice Control**: Uses voice commands to perform various actions like opening websites, making calls, sending messages, etc.
 - **Face Authentication**: Verifies the user's identity using facial recognition before granting access.
@@ -82,7 +82,7 @@ First, ensure that all necessary libraries are installed using the `requirements
    
 # Project Overview
 
-This project was developed by **Vishal Paswan**, **Jatin Megani**, and **Vivek**. The objective was to build a voice assistant with various features.
+This project was developed by **Vishal Paswan**, **Jatin Megani**, and **Vivek yadav**. The objective was to build a voice assistant with various features.
 
 ## PowerPoint Presentation
 
